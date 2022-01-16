@@ -1,6 +1,32 @@
 # Labenu Music Awards - LAMA
 
-Projeto de backend realizado para o curso de desenvolvimento web da Labenu.
+<h4 align="center"> 
+Node.Js
+</h4>
+
+Projeto de *back-end* uma plataforma de shows, realizado como forma de estudo e prática. 
+
+### 🛠 Tecnologias
+
+O projeto *back-end* foi constrído em **Node.Js**, fazendo uso de bibliotecas como o *cors*, *express*, *knex*, *mysql*, *dotenv*, *bcryptjs*, *jsonwebtoken*, *uuid* e *jest*.
+- [Node.Js](https://nodejs.org/en/)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Express](https://expressjs.com/pt-br/)
+- [Knex](https://knexjs.org/)
+- [MySQL](https://www.npmjs.com/package/mysql)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Bcryptjs](https://www.npmjs.com/package/bcryptjs)
+- [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [Uuid](https://www.npmjs.com/package/uuid)
+- [Jest](https://jestjs.io/pt-BR/)
+
+### Autor
+
+Silvio Ribeiro Dias Jr.
+
+-[LinkedIn](https://www.linkedin.com/in/silvio-dias-junior/)
+
+
 
 Para testar o projeto:
 
