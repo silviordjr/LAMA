@@ -8,6 +8,7 @@ export enum ROLE {
     ADMIN = 'ADMIN'
 }
 
+
 export class User {
     constructor(
         private id: string,
